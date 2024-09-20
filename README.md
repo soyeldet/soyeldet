@@ -27,3 +27,5 @@
 </div>
 
 ###
+
+<p align="left">También me gusta crear servidores, principalmente en linux (Ubuntu server, Debian...)</p>
