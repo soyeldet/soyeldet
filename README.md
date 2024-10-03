@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Estos son los lenguajes que se usar:</p>
+<p align="left">These are the languages I use:</p>
 
 ###
 
@@ -24,8 +24,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
 </div>
 
 ###
 
-<p align="left">También me gusta crear servidores, principalmente en linux (Ubuntu server, Debian...)</p>
+<p align="left">I also like to create servers, mainly on Linux (Ubuntu server, Debian...)</p>
