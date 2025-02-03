@@ -4,8 +4,6 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soyeldet&label=Profile%20views&color=0e75b6&style=flat" alt="soyeldet" /> </p>
-
 <h1 align="left">Hi 😴</h1>
 
 ###
